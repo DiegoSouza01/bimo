@@ -1,5 +1,7 @@
 function Home() {
-    return <h1>Salve Darling!!! :3</h1>
+    return <h1>Sempre vai ter alguém que 
+        não consegue ver o seu valor... 
+        Não deixe que seja você.</h1>
 }
 
 export default Home;
