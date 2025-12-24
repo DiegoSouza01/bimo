@@ -1,6 +1,6 @@
-import orchestrator from "../orchestrator.js";
+import orchestrator from "tests/orchestrator.js";
 
-beforeALL(async () => {
+beforeAll(async () => {
   await orchestrator.waitForAllServices();
   await orchestrator.clearDatabase();
 });
