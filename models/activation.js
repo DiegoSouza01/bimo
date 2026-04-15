@@ -130,4 +130,3 @@ const activation = {
 };
 
 export default activation;
-export default activation;
